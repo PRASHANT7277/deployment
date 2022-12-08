@@ -2,6 +2,7 @@
   "cart":[],
   "orders":[],
   "user":[],
+  "post":[],
   "product":[
     {
       "id": 22,
